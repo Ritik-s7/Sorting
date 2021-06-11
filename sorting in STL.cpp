@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// sorting function in stl uses hybrid of quick sort, heap sort and insertion sort
+// nlogn
 
 // Code for third heading 
 
