@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// for printing elements
 void merge(int arr[], int low, int mid, int high)
 {
     int i=low, j = mid+1;
@@ -32,6 +33,7 @@ void merge(int arr[], int low, int mid, int high)
         }    
 }
 
+// For storing in array
 void merge2(int arr[], int low, int mid, int high)
 {
     int n1 = mid-low+1;
@@ -70,7 +72,7 @@ int main()
 
 
     merge2(arr,low,mid,high);
-for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
     }
