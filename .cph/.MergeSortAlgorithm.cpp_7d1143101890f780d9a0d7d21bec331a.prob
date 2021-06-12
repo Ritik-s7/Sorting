@@ -1,0 +1,1 @@
+{"name":"Local: MergeSortAlgorithm","url":"c:\\Users\\LENOVO\\Desktop\\Sorting\\MergeSortAlgorithm.cpp","tests":[{"id":1623501715338,"input":"5 0 4\n10 5 30 15 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Sorting\\MergeSortAlgorithm.cpp","group":"local","local":true}
