@@ -2,7 +2,7 @@
 using namespace std;
 // arr1[] = [1 1 2 3 3 3 3 4 5]
 // arr2[] = [3 3 4 5 6 6 7 ]
-// o/p = [1 2 3 4 5 6 7]
+// o/p = [1 2 3 4 5]
 
 // Naive Solution - O(n1*n2)
 void Intersection(int arr1[], int arr2[], int n1, int n2)
