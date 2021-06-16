@@ -38,10 +38,6 @@ int main()
     }
 
     LomutoPartition(arr1,low,high,p);
-    for(int i=low;i<=high;i++)
-    {
-        cout << arr1[i] <<" ";
-    }
 
     return 0;
 }
