@@ -1,0 +1,1 @@
+{"name":"Local: SortArrayOf2TypesOfElement","url":"c:\\Users\\LENOVO\\Desktop\\Sorting\\SortArrayOf2TypesOfElement.cpp","tests":[{"id":1623961179757,"input":"8\n3 5 6 2 9 11 8 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Sorting\\SortArrayOf2TypesOfElement.cpp","group":"local","local":true}
