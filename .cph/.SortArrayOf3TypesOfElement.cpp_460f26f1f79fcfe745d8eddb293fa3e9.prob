@@ -1,0 +1,1 @@
+{"name":"Local: SortArrayOf3TypesOfElement","url":"c:\\Users\\LENOVO\\Desktop\\Sorting\\SortArrayOf3TypesOfElement.cpp","tests":[{"id":1624013853258,"input":"8 4 7\n2 9 7 6 3 1 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Sorting\\SortArrayOf3TypesOfElement.cpp","group":"local","local":true}
