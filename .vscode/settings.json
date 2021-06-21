@@ -1,5 +1,9 @@
 {
-    "files.associations": {
-        "iostream": "cpp"
-    }
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "C_Cpp_Runner.cCompilerPath": "C:\\Program Files\\mingw32\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\Program Files\\mingw32\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\Program Files\\mingw32\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\Program Files\\mingw32\\bin\\make.exe"
 }
